@@ -71,7 +71,7 @@ Each section in this repository contains:
 To get started, clone this repository and explore the folders that interest you most:
 
 ```bash
-git clone https://github.com/holarmc/ml-engineers-toolbox.git
+git clone https://github.com/Holarmc/ml-engineers-toolbox.git
 cd ml-engineers-toolbox
 ```
 
